@@ -1,0 +1,325 @@
+{
+  "campaigns": [
+    {
+      "id": 1,
+      "platform": "Google Ads",
+      "campaign": "Drishti IAS - UPSC Preparation",
+      "ctr": 1.6,
+      "cpc": 45,
+      "roas": 6.0,
+      "conversions": 180,
+      "spend": 81000,
+      "status": "Active",
+      "benchmark": "↗ 1.9x",
+      "industry": "EdTech",
+      "impressions": 450000,
+      "cvr": 2.5,
+      "cpa": 450,
+      "revenue": 486000,
+      "roi": 500
+    },
+    {
+      "id": 2,
+      "platform": "Meta",
+      "campaign": "GRM Institute - MBA Programs",
+      "ctr": 1.5,
+      "cpc": 32,
+      "roas": 12.5,
+      "conversions": 240,
+      "spend": 38000,
+      "status": "Scaling",
+      "benchmark": "↗ 1.9x",
+      "industry": "EdTech",
+      "impressions": 320000,
+      "cvr": 5.0,
+      "cpa": 158,
+      "revenue": 475000,
+      "roi": 1150
+    },
+    {
+      "id": 3,
+      "platform": "Amazon DSP",
+      "campaign": "E-commerce Electronics",
+      "ctr": 1.5,
+      "cpc": 30,
+      "roas": 6.7,
+      "conversions": 210,
+      "spend": 63000,
+      "status": "Active",
+      "benchmark": "↗ 4.0x",
+      "industry": "E-commerce",
+      "impressions": 280000,
+      "cvr": 5.0,
+      "cpa": 300,
+      "revenue": 422100,
+      "roi": 567
+    },
+    {
+      "id": 4,
+      "platform": "Swiggy Instamart",
+      "campaign": "Grocery Delivery",
+      "ctr": 6.0,
+      "cpc": 15,
+      "roas": 10.0,
+      "conversions": 900,
+      "spend": 27000,
+      "status": "Scaling",
+      "benchmark": "↗ 7.5x",
+      "industry": "Q-commerce",
+      "impressions": 150000,
+      "cvr": 10.0,
+      "cpa": 30,
+      "revenue": 270000,
+      "roi": 900
+    },
+    {
+      "id": 5,
+      "platform": "Blinkit DSP",
+      "campaign": "Quick Commerce",
+      "ctr": 5.0,
+      "cpc": 10,
+      "roas": 10.0,
+      "conversions": 480,
+      "spend": 15000,
+      "status": "Active",
+      "benchmark": "↗ 7.5x",
+      "industry": "Q-commerce",
+      "impressions": 120000,
+      "cvr": 8.0,
+      "cpa": 31,
+      "revenue": 150000,
+      "roi": 900
+    },
+    {
+      "id": 6,
+      "platform": "Zepto",
+      "campaign": "Ultra Fast Delivery",
+      "ctr": 4.0,
+      "cpc": 12,
+      "roas": 6.3,
+      "conversions": 160,
+      "spend": 13000,
+      "status": "Active",
+      "benchmark": "↗ 5.0x",
+      "industry": "Q-commerce",
+      "impressions": 80000,
+      "cvr": 5.0,
+      "cpa": 81,
+      "revenue": 81900,
+      "roi": 525
+    },
+    {
+      "id": 7,
+      "platform": "WhatsApp Automation",
+      "campaign": "Lead Nurturing",
+      "ctr": 3.5,
+      "cpc": 5,
+      "roas": 20.0,
+      "conversions": 450,
+      "spend": 11000,
+      "status": "Scaling",
+      "benchmark": "↗ 3.0x",
+      "industry": "EdTech",
+      "impressions": 0,
+      "cvr": 15.0,
+      "cpa": 24,
+      "revenue": 220000,
+      "roi": 1900
+    },
+    {
+      "id": 8,
+      "platform": "Email Automation",
+      "campaign": "Course Enrollment",
+      "ctr": 3.0,
+      "cpc": 4,
+      "roas": 25.0,
+      "conversions": 320,
+      "spend": 6000,
+      "status": "Active",
+      "benchmark": "↗ 5.0x",
+      "industry": "EdTech",
+      "impressions": 0,
+      "cvr": 12.0,
+      "cpa": 19,
+      "revenue": 150000,
+      "roi": 2400
+    },
+    {
+      "id": 9,
+      "platform": "Instagram Shops",
+      "campaign": "Fashion Retail",
+      "ctr": 2.0,
+      "cpc": 12,
+      "roas": 8.3,
+      "conversions": 200,
+      "spend": 24000,
+      "status": "Active",
+      "benchmark": "↗ 4.5x",
+      "industry": "E-commerce",
+      "impressions": 200000,
+      "cvr": 5.0,
+      "cpa": 120,
+      "revenue": 199200,
+      "roi": 733
+    },
+    {
+      "id": 10,
+      "platform": "Amazon Search Ads",
+      "campaign": "Product Launch",
+      "ctr": 2.0,
+      "cpc": 16,
+      "roas": 6.3,
+      "conversions": 180,
+      "spend": 29000,
+      "status": "Scaling",
+      "benchmark": "↗ 4.0x",
+      "industry": "E-commerce",
+      "impressions": 180000,
+      "cvr": 5.0,
+      "cpa": 161,
+      "revenue": 182700,
+      "roi": 525
+    },
+    {
+      "id": 11,
+      "platform": "Shopify",
+      "campaign": "D2C Brand",
+      "ctr": 2.0,
+      "cpc": 20,
+      "roas": 5.0,
+      "conversions": 100,
+      "spend": 20000,
+      "status": "Active",
+      "benchmark": "↗ 3.5x",
+      "industry": "E-commerce",
+      "impressions": 100000,
+      "cvr": 5.0,
+      "cpa": 200,
+      "revenue": 100000,
+      "roi": 400
+    },
+    {
+      "id": 12,
+      "platform": "Display Ads",
+      "campaign": "Brand Awareness",
+      "ctr": 1.0,
+      "cpc": 25,
+      "roas": 6.0,
+      "conversions": 100,
+      "spend": 25000,
+      "status": "Paused",
+      "benchmark": "↗ 2.0x",
+      "industry": "EdTech",
+      "impressions": 500000,
+      "cvr": 2.0,
+      "cpa": 250,
+      "revenue": 150000,
+      "roi": 500
+    }
+  ],
+  "summaryMetrics": {
+    "totalSpend": 340000,
+    "totalConversions": 3320,
+    "totalImpressions": 2100000,
+    "totalClicks": 56700,
+    "totalRevenue": 3125000,
+    "averageCTR": 2.7,
+    "averageROAS": 9.2,
+    "averageCPA": 102,
+    "averageCPC": 18,
+    "averageROI": 919
+  },
+  "conversionTrends": [
+    { "month": "Jan", "conversions": 1200, "revenue": 600000 },
+    { "month": "Feb", "conversions": 1400, "revenue": 700000 },
+    { "month": "Mar", "conversions": 1600, "revenue": 800000 },
+    { "month": "Apr", "conversions": 1800, "revenue": 900000 },
+    { "month": "May", "conversions": 2000, "revenue": 1000000 },
+    { "month": "Jun", "conversions": 2200, "revenue": 1100000 },
+    { "month": "Jul", "conversions": 2400, "revenue": 1200000 },
+    { "month": "Aug", "conversions": 2600, "revenue": 1300000 },
+    { "month": "Sep", "conversions": 2800, "revenue": 1400000 },
+    { "month": "Oct", "conversions": 3000, "revenue": 1500000 },
+    { "month": "Nov", "conversions": 3200, "revenue": 1600000 },
+    { "month": "Dec", "conversions": 3400, "revenue": 1700000 }
+  ],
+  "platformBenchmarks": {
+    "Google Ads": { "roas": 1.9, "cvr": 3.5, "ctr": 2.0 },
+    "Meta": { "roas": 1.9, "cvr": 4.5, "ctr": 1.8 },
+    "Amazon DSP": { "roas": 4.0, "cvr": 3.0, "ctr": 1.2 },
+    "Swiggy Instamart": { "roas": 7.5, "cvr": 7.5, "ctr": 4.0 },
+    "Blinkit DSP": { "roas": 7.5, "cvr": 6.5, "ctr": 3.5 },
+    "Zepto": { "roas": 5.0, "cvr": 5.5, "ctr": 3.0 },
+    "WhatsApp Automation": { "roas": 3.0, "cvr": 8.0, "ctr": 0 },
+    "Email Automation": { "roas": 5.0, "cvr": 6.0, "ctr": 0 },
+    "Instagram Shops": { "roas": 4.5, "cvr": 4.0, "ctr": 1.5 },
+    "Amazon Search Ads": { "roas": 4.0, "cvr": 3.5, "ctr": 1.8 },
+    "Shopify": { "roas": 3.5, "cvr": 3.0, "ctr": 1.5 },
+    "Display Ads": { "roas": 2.0, "cvr": 2.5, "ctr": 0.8 }
+  },
+  "industryBenchmarks": {
+    "EdTech": {
+      "Drishti IAS": { "roas": "1.71-2.01", "cvr": "2-5%" },
+      "GRM Institute": { "cvr": "3-6%" }
+    },
+    "E-commerce": {
+      "Amazon DSP": { "roas": "4-6x", "cvr": "3-5%" },
+      "Instagram Shops": { "roas": "4-6x", "cvr": "4-6%" }
+    },
+    "Q-commerce": {
+      "Swiggy Instamart": { "roi": "5-10x", "cvr": "5-10%" },
+      "Blinkit DSP": { "roi": "5-10x", "cvr": "4-9%" },
+      "Zepto": { "cvr": "3-8%" }
+    }
+  },
+  "platformInsights": {
+    "Google Ads": {
+      "tip": "Increase budget allocation - performing above benchmark with 6.0 ROAS vs 1.9 benchmark",
+      "recommendation": "Focus on high-intent keywords and expand successful ad groups"
+    },
+    "Meta": {
+      "tip": "Scale successful campaigns - 12.5 ROAS indicates strong audience targeting",
+      "recommendation": "Expand lookalike audiences and test new creative formats"
+    },
+    "Amazon DSP": {
+      "tip": "Strong performance above benchmark - 6.7 ROAS vs 4.0 benchmark",
+      "recommendation": "Increase DSP budget and test new audience segments"
+    },
+    "Swiggy Instamart": {
+      "tip": "Excellent marketplace performance with 10.0 ROAS and 6.0% CTR",
+      "recommendation": "Scale to similar quick commerce platforms"
+    },
+    "Blinkit DSP": {
+      "tip": "Outstanding performance with 10.0 ROAS and 5.0% CTR",
+      "recommendation": "Increase budget and expand to new cities"
+    },
+    "Zepto": {
+      "tip": "Good performance above benchmark with 6.3 ROAS",
+      "recommendation": "Optimize targeting for higher conversion rates"
+    },
+    "WhatsApp Automation": {
+      "tip": "Exceptional automation performance with 20.0 ROAS",
+      "recommendation": "Scale automation across all EdTech campaigns"
+    },
+    "Email Automation": {
+      "tip": "Highest ROAS channel with 25.0x return",
+      "recommendation": "Increase email automation budget significantly"
+    },
+    "Instagram Shops": {
+      "tip": "Strong social commerce performance with 8.3 ROAS",
+      "recommendation": "Expand Instagram Shops presence and influencer partnerships"
+    },
+    "Amazon Search Ads": {
+      "tip": "Good search performance with 6.3 ROAS",
+      "recommendation": "Optimize keyword bids and expand product targeting"
+    },
+    "Shopify": {
+      "tip": "Solid D2C performance with 5.0 ROAS",
+      "recommendation": "Focus on customer retention and LTV optimization"
+    },
+    "Display Ads": {
+      "tip": "Brand awareness performing well with 6.0 ROAS",
+      "recommendation": "Resume paused campaigns with refined targeting"
+    }
+  }
+}
