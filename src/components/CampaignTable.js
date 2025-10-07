@@ -80,6 +80,7 @@ const CampaignTable = ({ campaigns }) => {
   };
 
   const formatCurrency = (value) => `₹${(value / 1000).toFixed(0)}K`;
+  const formatCPC = (value) => `₹${value.toFixed(1)}`;
   const formatNumber = (value) => value.toLocaleString();
   const formatPercentage = (value) => `${value.toFixed(1)}%`;
 
@@ -184,7 +185,7 @@ const CampaignTable = ({ campaigns }) => {
                 <td className="py-4 px-4 text-dark-text font-medium">{campaign.platform}</td>
                 <td className="py-4 px-4 text-dark-text">{campaign.campaignName}</td>
                 <td className="py-4 px-4 text-right text-dark-text">{formatPercentage(campaign.ctr)}</td>
-                <td className="py-4 px-4 text-right text-dark-text">{formatCurrency(campaign.cpc)}</td>
+                <td className="py-4 px-4 text-right text-dark-text">{formatCPC(campaign.cpc)}</td>
                 <td className="py-4 px-4 text-right text-dark-text font-medium">{campaign.roas.toFixed(1)}x</td>
                 <td className="py-4 px-4 text-right text-dark-text">{formatNumber(campaign.conversions)}</td>
                 <td className="py-4 px-4 text-right text-dark-text">{formatCurrency(campaign.amountSpent)}</td>
